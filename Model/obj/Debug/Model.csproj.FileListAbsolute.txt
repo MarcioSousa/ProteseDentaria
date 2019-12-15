@@ -1,0 +1,5 @@
+C:\Users\Marcio Sousa\source\repos\cfscriative\Model\bin\Debug\Model.dll
+C:\Users\Marcio Sousa\source\repos\cfscriative\Model\bin\Debug\Model.pdb
+C:\Users\Marcio Sousa\source\repos\cfscriative\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+C:\Users\Marcio Sousa\source\repos\cfscriative\Model\obj\Debug\Model.dll
+C:\Users\Marcio Sousa\source\repos\cfscriative\Model\obj\Debug\Model.pdb

@@ -1,0 +1,7 @@
+C:\Users\Marcio Sousa\source\repos\cfscriative\Control\bin\Debug\Control.dll.config
+C:\Users\Marcio Sousa\source\repos\cfscriative\Control\bin\Debug\Control.dll
+C:\Users\Marcio Sousa\source\repos\cfscriative\Control\bin\Debug\Control.pdb
+C:\Users\Marcio Sousa\source\repos\cfscriative\Control\obj\Debug\Control.csproj.CoreCompileInputs.cache
+C:\Users\Marcio Sousa\source\repos\cfscriative\Control\obj\Debug\Control.dll
+C:\Users\Marcio Sousa\source\repos\cfscriative\Control\obj\Debug\Control.pdb
+C:\Users\Marcio Sousa\source\repos\cfscriative\Control\obj\Debug\Control.csprojAssemblyReference.cache

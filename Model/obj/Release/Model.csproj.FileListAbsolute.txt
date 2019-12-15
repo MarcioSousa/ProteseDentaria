@@ -1,0 +1,6 @@
+C:\Users\Marcio Sousa\source\repos\cfscriative\Model\bin\Release\Model.dll
+C:\Users\Marcio Sousa\source\repos\cfscriative\Model\bin\Release\Model.pdb
+C:\Users\Marcio Sousa\source\repos\cfscriative\Model\obj\Release\Model.csproj.CoreCompileInputs.cache
+C:\Users\Marcio Sousa\source\repos\cfscriative\Model\obj\Release\Model.dll
+C:\Users\Marcio Sousa\source\repos\cfscriative\Model\obj\Release\Model.pdb
+C:\Users\Marcio Sousa\source\repos\cfscriative\Model\obj\Release\Model.csprojAssemblyReference.cache
