@@ -30,3 +30,38 @@ C:\Users\Marcio Sousa\source\repos\cfscriative\View\obj\Debug\Criative.applicati
 C:\Users\Marcio Sousa\source\repos\cfscriative\View\obj\Debug\View.csproj.CopyComplete
 C:\Users\Marcio Sousa\source\repos\cfscriative\View\obj\Debug\Criative.exe
 C:\Users\Marcio Sousa\source\repos\cfscriative\View\obj\Debug\Criative.pdb
+C:\Users\Marcio\Documents\Visual Studio 2022\ProteseDentaria\View\obj\Debug\View.csproj.AssemblyReference.cache
+C:\Users\Marcio\Documents\Visual Studio 2022\ProteseDentaria\View\obj\Debug\View.csproj.SuggestedBindingRedirects.cache
+C:\Users\Marcio\Documents\Visual Studio 2022\ProteseDentaria\View\obj\Debug\View.FrmFechamento.resources
+C:\Users\Marcio\Documents\Visual Studio 2022\ProteseDentaria\View\obj\Debug\View.FrmNovoPedido.resources
+C:\Users\Marcio\Documents\Visual Studio 2022\ProteseDentaria\View\obj\Debug\View.FrmEmpresa.resources
+C:\Users\Marcio\Documents\Visual Studio 2022\ProteseDentaria\View\obj\Debug\View.FrmPedido.resources
+C:\Users\Marcio\Documents\Visual Studio 2022\ProteseDentaria\View\obj\Debug\View.FrmPrincipal.resources
+C:\Users\Marcio\Documents\Visual Studio 2022\ProteseDentaria\View\obj\Debug\View.FrmProduto.resources
+C:\Users\Marcio\Documents\Visual Studio 2022\ProteseDentaria\View\obj\Debug\View.FrmDesenvolvedor.resources
+C:\Users\Marcio\Documents\Visual Studio 2022\ProteseDentaria\View\obj\Debug\View.FrmSobre.resources
+C:\Users\Marcio\Documents\Visual Studio 2022\ProteseDentaria\View\obj\Debug\View.FrmSplash.resources
+C:\Users\Marcio\Documents\Visual Studio 2022\ProteseDentaria\View\obj\Debug\View.FrmTipo.resources
+C:\Users\Marcio\Documents\Visual Studio 2022\ProteseDentaria\View\obj\Debug\Criative.Properties.Resources.resources
+C:\Users\Marcio\Documents\Visual Studio 2022\ProteseDentaria\View\obj\Debug\View.csproj.GenerateResource.cache
+C:\Users\Marcio\Documents\Visual Studio 2022\ProteseDentaria\View\obj\Debug\View.csproj.CoreCompileInputs.cache
+C:\Users\Marcio\Documents\Visual Studio 2022\ProteseDentaria\View\obj\Debug\Criative.exe.manifest
+C:\Users\Marcio\Documents\Visual Studio 2022\ProteseDentaria\View\obj\Debug\Criative.exe
+C:\Users\Marcio\Documents\Visual Studio 2022\ProteseDentaria\View\obj\Debug\Criative.pdb
+C:\Users\Marcio\Documents\Visual Studio 2022\ProteseDentaria\View\bin\Debug\dbcriative.mdf
+C:\Users\Marcio\Documents\Visual Studio 2022\ProteseDentaria\View\bin\Debug\dbcriative_log.ldf
+C:\Users\Marcio\Documents\Visual Studio 2022\ProteseDentaria\View\bin\Debug\Criative.exe.config
+C:\Users\Marcio\Documents\Visual Studio 2022\ProteseDentaria\View\bin\Debug\Criative.exe.manifest
+C:\Users\Marcio\Documents\Visual Studio 2022\ProteseDentaria\View\bin\Debug\Criative.application
+C:\Users\Marcio\Documents\Visual Studio 2022\ProteseDentaria\View\bin\Debug\Criative.exe
+C:\Users\Marcio\Documents\Visual Studio 2022\ProteseDentaria\View\bin\Debug\Criative.pdb
+C:\Users\Marcio\Documents\Visual Studio 2022\ProteseDentaria\View\bin\Debug\Model.dll
+C:\Users\Marcio\Documents\Visual Studio 2022\ProteseDentaria\View\bin\Debug\Negocio.dll
+C:\Users\Marcio\Documents\Visual Studio 2022\ProteseDentaria\View\bin\Debug\Control.dll
+C:\Users\Marcio\Documents\Visual Studio 2022\ProteseDentaria\View\bin\Debug\Model.pdb
+C:\Users\Marcio\Documents\Visual Studio 2022\ProteseDentaria\View\bin\Debug\Negocio.pdb
+C:\Users\Marcio\Documents\Visual Studio 2022\ProteseDentaria\View\bin\Debug\Negocio.dll.config
+C:\Users\Marcio\Documents\Visual Studio 2022\ProteseDentaria\View\bin\Debug\Control.pdb
+C:\Users\Marcio\Documents\Visual Studio 2022\ProteseDentaria\View\bin\Debug\Control.dll.config
+C:\Users\Marcio\Documents\Visual Studio 2022\ProteseDentaria\View\obj\Debug\Criative.application
+C:\Users\Marcio\Documents\Visual Studio 2022\ProteseDentaria\View\obj\Debug\View.csproj.CopyComplete

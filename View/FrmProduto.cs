@@ -50,8 +50,8 @@ namespace View
 
         private void FrmProduto_Load(object sender, EventArgs e)
         {
-            CarregaTodosProdutos();
             CarregaTipos();
+            CarregaTodosProdutos();
             CarregaQtdeProduto();
         }
 

@@ -18,7 +18,6 @@ namespace Control
         }
 
         private readonly SqlParameterCollection sqlParameterCollection = new SqlCommand().Parameters;
-
         public void LimparParametros()
         {
             sqlParameterCollection.Clear();

@@ -11,3 +11,16 @@ C:\Users\Marcio Sousa\source\repos\cfscriative\Negocio\obj\Release\Negocio.cspro
 C:\Users\Marcio Sousa\source\repos\cfscriative\Negocio\obj\Release\Negocio.dll
 C:\Users\Marcio Sousa\source\repos\cfscriative\Negocio\obj\Release\Negocio.pdb
 C:\Users\Marcio Sousa\source\repos\cfscriative\Negocio\bin\Release\Negocio.dll.config
+C:\Users\Marcio\Documents\Visual Studio 2022\ProteseDentaria\Negocio\bin\Release\Negocio.dll.config
+C:\Users\Marcio\Documents\Visual Studio 2022\ProteseDentaria\Negocio\bin\Release\Negocio.dll
+C:\Users\Marcio\Documents\Visual Studio 2022\ProteseDentaria\Negocio\bin\Release\Negocio.pdb
+C:\Users\Marcio\Documents\Visual Studio 2022\ProteseDentaria\Negocio\bin\Release\Control.dll
+C:\Users\Marcio\Documents\Visual Studio 2022\ProteseDentaria\Negocio\bin\Release\Model.dll
+C:\Users\Marcio\Documents\Visual Studio 2022\ProteseDentaria\Negocio\bin\Release\Control.pdb
+C:\Users\Marcio\Documents\Visual Studio 2022\ProteseDentaria\Negocio\bin\Release\Control.dll.config
+C:\Users\Marcio\Documents\Visual Studio 2022\ProteseDentaria\Negocio\bin\Release\Model.pdb
+C:\Users\Marcio\Documents\Visual Studio 2022\ProteseDentaria\Negocio\obj\Release\Negocio.csproj.AssemblyReference.cache
+C:\Users\Marcio\Documents\Visual Studio 2022\ProteseDentaria\Negocio\obj\Release\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\Marcio\Documents\Visual Studio 2022\ProteseDentaria\Negocio\obj\Release\Negocio.csproj.CopyComplete
+C:\Users\Marcio\Documents\Visual Studio 2022\ProteseDentaria\Negocio\obj\Release\Negocio.dll
+C:\Users\Marcio\Documents\Visual Studio 2022\ProteseDentaria\Negocio\obj\Release\Negocio.pdb

@@ -5,3 +5,10 @@ C:\Users\Marcio Sousa\source\repos\cfscriative\Control\obj\Release\Control.cspro
 C:\Users\Marcio Sousa\source\repos\cfscriative\Control\obj\Release\Control.dll
 C:\Users\Marcio Sousa\source\repos\cfscriative\Control\obj\Release\Control.pdb
 C:\Users\Marcio Sousa\source\repos\cfscriative\Control\obj\Release\Control.csprojAssemblyReference.cache
+C:\Users\Marcio\Documents\Visual Studio 2022\ProteseDentaria\Control\bin\Release\Control.dll.config
+C:\Users\Marcio\Documents\Visual Studio 2022\ProteseDentaria\Control\bin\Release\Control.dll
+C:\Users\Marcio\Documents\Visual Studio 2022\ProteseDentaria\Control\bin\Release\Control.pdb
+C:\Users\Marcio\Documents\Visual Studio 2022\ProteseDentaria\Control\obj\Release\Control.csproj.AssemblyReference.cache
+C:\Users\Marcio\Documents\Visual Studio 2022\ProteseDentaria\Control\obj\Release\Control.csproj.CoreCompileInputs.cache
+C:\Users\Marcio\Documents\Visual Studio 2022\ProteseDentaria\Control\obj\Release\Control.dll
+C:\Users\Marcio\Documents\Visual Studio 2022\ProteseDentaria\Control\obj\Release\Control.pdb

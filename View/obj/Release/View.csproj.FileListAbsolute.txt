@@ -30,3 +30,20 @@ C:\Users\Marcio Sousa\source\repos\cfscriative\View\obj\Release\Criative.pdb
 C:\Users\Marcio Sousa\source\repos\cfscriative\View\bin\Release\Negocio.dll.config
 C:\Users\Marcio Sousa\source\repos\cfscriative\View\obj\Release\View.FrmFechamento.resources
 C:\Users\Marcio Sousa\source\repos\cfscriative\View\obj\Release\View.FrmTipo.resources
+C:\Users\Marcio\Documents\Visual Studio 2022\ProteseDentaria\View\obj\Release\View.csproj.AssemblyReference.cache
+C:\Users\Marcio\Documents\Visual Studio 2022\ProteseDentaria\View\obj\Release\View.csproj.SuggestedBindingRedirects.cache
+C:\Users\Marcio\Documents\Visual Studio 2022\ProteseDentaria\View\obj\Release\View.FrmFechamento.resources
+C:\Users\Marcio\Documents\Visual Studio 2022\ProteseDentaria\View\obj\Release\View.FrmNovoPedido.resources
+C:\Users\Marcio\Documents\Visual Studio 2022\ProteseDentaria\View\obj\Release\View.FrmEmpresa.resources
+C:\Users\Marcio\Documents\Visual Studio 2022\ProteseDentaria\View\obj\Release\View.FrmPedido.resources
+C:\Users\Marcio\Documents\Visual Studio 2022\ProteseDentaria\View\obj\Release\View.FrmPrincipal.resources
+C:\Users\Marcio\Documents\Visual Studio 2022\ProteseDentaria\View\obj\Release\View.FrmProduto.resources
+C:\Users\Marcio\Documents\Visual Studio 2022\ProteseDentaria\View\obj\Release\View.FrmDesenvolvedor.resources
+C:\Users\Marcio\Documents\Visual Studio 2022\ProteseDentaria\View\obj\Release\View.FrmSobre.resources
+C:\Users\Marcio\Documents\Visual Studio 2022\ProteseDentaria\View\obj\Release\View.FrmSplash.resources
+C:\Users\Marcio\Documents\Visual Studio 2022\ProteseDentaria\View\obj\Release\View.FrmTipo.resources
+C:\Users\Marcio\Documents\Visual Studio 2022\ProteseDentaria\View\obj\Release\Criative.Properties.Resources.resources
+C:\Users\Marcio\Documents\Visual Studio 2022\ProteseDentaria\View\obj\Release\View.csproj.GenerateResource.cache
+C:\Users\Marcio\Documents\Visual Studio 2022\ProteseDentaria\View\obj\Release\View.csproj.CoreCompileInputs.cache
+C:\Users\Marcio\Documents\Visual Studio 2022\ProteseDentaria\View\obj\Release\Criative.exe
+C:\Users\Marcio\Documents\Visual Studio 2022\ProteseDentaria\View\obj\Release\Criative.pdb

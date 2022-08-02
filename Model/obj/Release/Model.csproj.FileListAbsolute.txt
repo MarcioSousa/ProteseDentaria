@@ -4,3 +4,9 @@ C:\Users\Marcio Sousa\source\repos\cfscriative\Model\obj\Release\Model.csproj.Co
 C:\Users\Marcio Sousa\source\repos\cfscriative\Model\obj\Release\Model.dll
 C:\Users\Marcio Sousa\source\repos\cfscriative\Model\obj\Release\Model.pdb
 C:\Users\Marcio Sousa\source\repos\cfscriative\Model\obj\Release\Model.csprojAssemblyReference.cache
+C:\Users\Marcio\Documents\Visual Studio 2022\ProteseDentaria\Model\bin\Release\Model.dll
+C:\Users\Marcio\Documents\Visual Studio 2022\ProteseDentaria\Model\bin\Release\Model.pdb
+C:\Users\Marcio\Documents\Visual Studio 2022\ProteseDentaria\Model\obj\Release\Model.csproj.AssemblyReference.cache
+C:\Users\Marcio\Documents\Visual Studio 2022\ProteseDentaria\Model\obj\Release\Model.csproj.CoreCompileInputs.cache
+C:\Users\Marcio\Documents\Visual Studio 2022\ProteseDentaria\Model\obj\Release\Model.dll
+C:\Users\Marcio\Documents\Visual Studio 2022\ProteseDentaria\Model\obj\Release\Model.pdb
