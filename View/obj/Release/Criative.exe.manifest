@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
-  <asmv1:assemblyIdentity name="Criative.exe" version="2.0.1.0" publicKeyToken="0000000000000000" language="neutral" processorArchitecture="msil" type="win32" />
+  <asmv1:assemblyIdentity name="Criative.exe" version="3.0.1.1" publicKeyToken="0000000000000000" language="neutral" processorArchitecture="msil" type="win32" />
   <description asmv2:iconFile="icone.ico" xmlns="urn:schemas-microsoft-com:asm.v1" />
   <application />
   <entryPoint>
@@ -15,16 +15,16 @@
       </applicationRequestMinimum>
       <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
         <!--
-          Opções de Manifesto UAC
-          Se desejar mudar o nível de Controle de Conta de Usuário do Windows, substitua o
-          nó requestedExecutionLevel por um dos seguintes.
+          UAC Manifest Options
+          If you want to change the Windows User Account Control level replace the
+          requestedExecutionLevel node with one of the following.
 
         <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
         <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
         <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
 
-         Se deseja usar a Virtualização de Arquivos e Registro para compatibilidade
-         com versões anteriores, exclua o nó requestedExecutionLevel.
+         If you want to utilize File and Registry Virtualization for backward
+         compatibility then delete the requestedExecutionLevel node.
     -->
         <requestedExecutionLevel level="asInvoker" uiAccess="false" />
       </requestedPrivileges>
@@ -50,19 +50,19 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>eKAA4WXVqryogpegW6mNhBtKbpFshx/Y71N9enGIs5Q=</dsig:DigestValue>
+        <dsig:DigestValue>JuKbnMuA77kBg1nl4ltHIselFkI0KPuUzLatFdq+5vk=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Criative.exe" size="664072">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Criative.exe" size="1217000">
       <assemblyIdentity name="Criative" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>r56kYIdfNdYOJnd3K+DLbJ7N1u/+xxNpduaFc18O1Gw=</dsig:DigestValue>
+        <dsig:DigestValue>GqGSXPN8AbiftkLxGzhHsPuhGWLaGWdYAHN5YgEkoks=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -74,7 +74,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>2S3DPpiYLJf9FARX7+4QM+Ebs/DDRnleMAUVSwBGFSM=</dsig:DigestValue>
+        <dsig:DigestValue>6NEy5uKr7NFc1g5r+22zFIWoNGT+6UmKfB5OyRVxZgY=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -86,17 +86,17 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>CP1VBfj4Hojqmg/eyQTLE6/BxhAEagTXkelfnwPzka8=</dsig:DigestValue>
+        <dsig:DigestValue>X/itvq3TfvjmEl0/2UMd/2GRk0qvFgWl+H2W6VaIsb8=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
-  <file name="Criative.exe.config" size="1255">
+  <file name="Criative.exe.config" size="1213">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>QBFUXEIqrXQxguim6E9exUeh3h0XIre4XJx21fLMnPg=</dsig:DigestValue>
+      <dsig:DigestValue>fYJ9+QAAOSZ2dO6GSYOxIhXxSRwHFC/BdKkVz9sVVQk=</dsig:DigestValue>
     </hash>
   </file>
   <file name="icone.ico" size="15086">

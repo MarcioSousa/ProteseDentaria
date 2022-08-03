@@ -24,3 +24,5 @@ C:\Users\Marcio\Documents\Visual Studio 2022\ProteseDentaria\Negocio\obj\Release
 C:\Users\Marcio\Documents\Visual Studio 2022\ProteseDentaria\Negocio\obj\Release\Negocio.csproj.CopyComplete
 C:\Users\Marcio\Documents\Visual Studio 2022\ProteseDentaria\Negocio\obj\Release\Negocio.dll
 C:\Users\Marcio\Documents\Visual Studio 2022\ProteseDentaria\Negocio\obj\Release\Negocio.pdb
+C:\Users\Marcio\Documents\Visual Studio 2022\ProteseDentaria\Negocio\bin\Release\dbcriative.mdf
+C:\Users\Marcio\Documents\Visual Studio 2022\ProteseDentaria\Negocio\bin\Release\dbcriative_log.ldf

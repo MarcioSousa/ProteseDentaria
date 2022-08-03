@@ -12,3 +12,5 @@ C:\Users\Marcio\Documents\Visual Studio 2022\ProteseDentaria\Control\obj\Release
 C:\Users\Marcio\Documents\Visual Studio 2022\ProteseDentaria\Control\obj\Release\Control.csproj.CoreCompileInputs.cache
 C:\Users\Marcio\Documents\Visual Studio 2022\ProteseDentaria\Control\obj\Release\Control.dll
 C:\Users\Marcio\Documents\Visual Studio 2022\ProteseDentaria\Control\obj\Release\Control.pdb
+C:\Users\Marcio\Documents\Visual Studio 2022\ProteseDentaria\Control\bin\Release\dbcriative.mdf
+C:\Users\Marcio\Documents\Visual Studio 2022\ProteseDentaria\Control\bin\Release\dbcriative_log.ldf

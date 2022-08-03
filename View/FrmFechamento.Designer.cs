@@ -147,7 +147,7 @@
             this.pictureBox2.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox2.Image")));
             this.pictureBox2.Location = new System.Drawing.Point(12, 12);
             this.pictureBox2.Name = "pictureBox2";
-            this.pictureBox2.Size = new System.Drawing.Size(194, 94);
+            this.pictureBox2.Size = new System.Drawing.Size(194, 138);
             this.pictureBox2.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.pictureBox2.TabIndex = 33;
             this.pictureBox2.TabStop = false;
@@ -191,7 +191,7 @@
             this.label9.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
             this.label9.Location = new System.Drawing.Point(364, 52);
             this.label9.Name = "label9";
-            this.label9.Size = new System.Drawing.Size(191, 16);
+            this.label9.Size = new System.Drawing.Size(190, 16);
             this.label9.TabIndex = 45;
             this.label9.Text = "E-mail: criativeitu@hotmail.com";
             // 
@@ -202,7 +202,7 @@
             this.label3.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
             this.label3.Location = new System.Drawing.Point(339, 36);
             this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(240, 16);
+            this.label3.Size = new System.Drawing.Size(239, 16);
             this.label3.TabIndex = 44;
             this.label3.Text = "Tel.: 11 2715-2071 - Cel.: 11 97101-3921";
             // 
