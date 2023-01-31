@@ -10,3 +10,9 @@ C:\Users\Marcio\Documents\Visual Studio 2022\ProteseDentaria\Model\obj\Release\M
 C:\Users\Marcio\Documents\Visual Studio 2022\ProteseDentaria\Model\obj\Release\Model.csproj.CoreCompileInputs.cache
 C:\Users\Marcio\Documents\Visual Studio 2022\ProteseDentaria\Model\obj\Release\Model.dll
 C:\Users\Marcio\Documents\Visual Studio 2022\ProteseDentaria\Model\obj\Release\Model.pdb
+C:\Users\Marcio\source\repos\ProteseDentaria\Model\bin\Release\Model.dll
+C:\Users\Marcio\source\repos\ProteseDentaria\Model\bin\Release\Model.pdb
+C:\Users\Marcio\source\repos\ProteseDentaria\Model\obj\Release\Model.csproj.AssemblyReference.cache
+C:\Users\Marcio\source\repos\ProteseDentaria\Model\obj\Release\Model.csproj.CoreCompileInputs.cache
+C:\Users\Marcio\source\repos\ProteseDentaria\Model\obj\Release\Model.dll
+C:\Users\Marcio\source\repos\ProteseDentaria\Model\obj\Release\Model.pdb

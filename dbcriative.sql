@@ -134,17 +134,17 @@ FOREIGN KEY(codigoempresa)
 REFERENCES Empresa(codigo)
 GO
 
---INSERT INTO Pedido(codigo, codigoempresa, dentista, datafechamento) VALUES (122, 2, 'DR. RAFAEL','2019-06-30')
---INSERT INTO Pedido(codigo, codigoempresa, dentista, datafechamento) VALUES (1000, 2, 'DR. RICARDO', '2019-07-20')
---INSERT INTO Pedido(codigo, codigoempresa, dentista) VALUES (1001, 2, 'DR. ROBERTO')
---INSERT INTO Pedido(codigo, codigoempresa, dentista) VALUES (1002, 2, 'DRA. ROBERTA')
---INSERT INTO Pedido(codigo, codigoempresa, dentista, datafechamento) VALUES (1003, 2, 'DRA. RENATA', '2018-01-30')
---INSERT INTO Pedido(codigo, codigoempresa, dentista) VALUES (1004, 2, 'DRA. AMANDA')
---INSERT INTO Pedido(codigo, codigoempresa, dentista) VALUES (1005, 2, 'DR. MARCIO')
---INSERT INTO Pedido(codigo, codigoempresa, dentista) VALUES (1006, 2, 'DR. LEONARDO')
---INSERT INTO Pedido(codigo, codigoempresa, dentista) VALUES (1007, 2, 'DR. PAULO')
---INSERT INTO Pedido(codigo, codigoempresa, dentista) VALUES (1008, 2, 'DR. GABRIEL')
---GO
+INSERT INTO Pedido(codigo, codigoempresa, dentista, datafechamento) VALUES (122, 2, 'DR. RAFAEL','2019-06-30')
+INSERT INTO Pedido(codigo, codigoempresa, dentista, datafechamento) VALUES (1000, 2, 'DR. RICARDO', '2019-07-20')
+INSERT INTO Pedido(codigo, codigoempresa, dentista) VALUES (1001, 2, 'DR. ROBERTO')
+INSERT INTO Pedido(codigo, codigoempresa, dentista) VALUES (1002, 2, 'DRA. ROBERTA')
+INSERT INTO Pedido(codigo, codigoempresa, dentista, datafechamento) VALUES (1003, 2, 'DRA. RENATA', '2018-01-30')
+INSERT INTO Pedido(codigo, codigoempresa, dentista) VALUES (1004, 2, 'DRA. AMANDA')
+INSERT INTO Pedido(codigo, codigoempresa, dentista) VALUES (1005, 2, 'DR. MARCIO')
+INSERT INTO Pedido(codigo, codigoempresa, dentista) VALUES (1006, 2, 'DR. LEONARDO')
+INSERT INTO Pedido(codigo, codigoempresa, dentista) VALUES (1007, 2, 'DR. PAULO')
+INSERT INTO Pedido(codigo, codigoempresa, dentista) VALUES (1008, 2, 'DR. GABRIEL')
+GO
 
 --========================================================================================
 
@@ -164,12 +164,12 @@ ADD CONSTRAINT PK_CODIGOITEMPEDIDO
 PRIMARY KEY (codigo)
 GO
 
---INSERT INTO ItemPedido(codigoproduto, codigopedido, valorunid, qtde, paciente, dataentrega) VALUES (1001, 122, 50.00, 2, 'RODRIGO', '2019-07-20')
---INSERT INTO ItemPedido(codigoproduto, codigopedido, valorunid, qtde, paciente, dataentrega) VALUES (1002, 122, 60.00, 1, 'RODRIGO', '2019-07-20')
---INSERT INTO ItemPedido(codigoproduto, codigopedido, valorunid, qtde, paciente, dataentrega) VALUES (1001, 1000, 50.00, 3, 'RODRIGO', '2019-07-20')
---INSERT INTO ItemPedido(codigoproduto, codigopedido, valorunid, qtde, paciente, dataentrega) VALUES (1003, 122, 70.00, 1, 'RODRIGO', '2019-07-20')
---INSERT INTO ItemPedido(codigoproduto, codigopedido, valorunid, qtde, paciente, dataentrega) VALUES (1001, 1001, 50.00, 2, 'RODRIGO', '2019-07-20')
---INSERT INTO ItemPedido(codigoproduto, codigopedido, valorunid, qtde, paciente, dataentrega) VALUES (1004, 1002, 80.00, 3, 'RODRIGO', '2019-07-20')
---INSERT INTO ItemPedido(codigoproduto, codigopedido, valorunid, qtde, paciente, dataentrega) VALUES (1001, 122, 50.00, 1, 'RODRIGO', '2019-07-20')
---INSERT INTO ItemPedido(codigoproduto, codigopedido, valorunid, qtde, paciente, dataentrega) VALUES (1005, 1005, 90.00, 1, 'RODRIGO', '2019-07-20')
+INSERT INTO ItemPedido(codigoproduto, codigopedido, valorunid, qtde, paciente, dataentrega) VALUES (1001, 122, 50.00, 2, 'RODRIGO', '2019-07-20')
+INSERT INTO ItemPedido(codigoproduto, codigopedido, valorunid, qtde, paciente, dataentrega) VALUES (1002, 122, 60.00, 1, 'RODRIGO', '2019-07-20')
+INSERT INTO ItemPedido(codigoproduto, codigopedido, valorunid, qtde, paciente, dataentrega) VALUES (1001, 1000, 50.00, 3, 'RODRIGO', '2019-07-20')
+INSERT INTO ItemPedido(codigoproduto, codigopedido, valorunid, qtde, paciente, dataentrega) VALUES (1003, 122, 70.00, 1, 'RODRIGO', '2019-07-20')
+INSERT INTO ItemPedido(codigoproduto, codigopedido, valorunid, qtde, paciente, dataentrega) VALUES (1001, 1001, 50.00, 2, 'RODRIGO', '2019-07-20')
+INSERT INTO ItemPedido(codigoproduto, codigopedido, valorunid, qtde, paciente, dataentrega) VALUES (1004, 1002, 80.00, 3, 'RODRIGO', '2019-07-20')
+INSERT INTO ItemPedido(codigoproduto, codigopedido, valorunid, qtde, paciente, dataentrega) VALUES (1001, 122, 50.00, 1, 'RODRIGO', '2019-07-20')
+INSERT INTO ItemPedido(codigoproduto, codigopedido, valorunid, qtde, paciente, dataentrega) VALUES (1005, 1005, 90.00, 1, 'RODRIGO', '2019-07-20')
 --========================================================================================

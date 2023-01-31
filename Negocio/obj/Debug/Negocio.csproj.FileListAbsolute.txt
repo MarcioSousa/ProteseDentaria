@@ -26,3 +26,18 @@ C:\Users\Marcio\Documents\Visual Studio 2022\ProteseDentaria\Negocio\obj\Debug\N
 C:\Users\Marcio\Documents\Visual Studio 2022\ProteseDentaria\Negocio\obj\Debug\Negocio.csproj.CopyComplete
 C:\Users\Marcio\Documents\Visual Studio 2022\ProteseDentaria\Negocio\obj\Debug\Negocio.dll
 C:\Users\Marcio\Documents\Visual Studio 2022\ProteseDentaria\Negocio\obj\Debug\Negocio.pdb
+C:\Users\Marcio\source\repos\ProteseDentaria\Negocio\bin\Debug\dbcriative.mdf
+C:\Users\Marcio\source\repos\ProteseDentaria\Negocio\bin\Debug\dbcriative_log.ldf
+C:\Users\Marcio\source\repos\ProteseDentaria\Negocio\bin\Debug\Negocio.dll.config
+C:\Users\Marcio\source\repos\ProteseDentaria\Negocio\bin\Debug\Negocio.dll
+C:\Users\Marcio\source\repos\ProteseDentaria\Negocio\bin\Debug\Negocio.pdb
+C:\Users\Marcio\source\repos\ProteseDentaria\Negocio\bin\Debug\Control.dll
+C:\Users\Marcio\source\repos\ProteseDentaria\Negocio\bin\Debug\Model.dll
+C:\Users\Marcio\source\repos\ProteseDentaria\Negocio\bin\Debug\Control.pdb
+C:\Users\Marcio\source\repos\ProteseDentaria\Negocio\bin\Debug\Control.dll.config
+C:\Users\Marcio\source\repos\ProteseDentaria\Negocio\bin\Debug\Model.pdb
+C:\Users\Marcio\source\repos\ProteseDentaria\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
+C:\Users\Marcio\source\repos\ProteseDentaria\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\Marcio\source\repos\ProteseDentaria\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+C:\Users\Marcio\source\repos\ProteseDentaria\Negocio\obj\Debug\Negocio.dll
+C:\Users\Marcio\source\repos\ProteseDentaria\Negocio\obj\Debug\Negocio.pdb
